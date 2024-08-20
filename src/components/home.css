@@ -1,0 +1,16 @@
+.wrapper{
+    padding: 2%;
+}
+.taxInputFields{
+    display: flex;
+    padding: 1px;
+    gap: 3%;
+}
+.taxIF1{
+    width: 60%;
+}
+.taxIF2{
+    width: 20%;
+    margin-left: 20%;
+
+}
